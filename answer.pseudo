@@ -1,0 +1,5 @@
+# RANDOM_NO_RANGE = (7..14)
+
+# def append_random_no(name)
+  # "#{ name } #{ rand(RANDOM_NO_RANGE) }"
+# end
